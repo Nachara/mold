@@ -1,5 +1,7 @@
 # how to make molds visible
 
+video [HERE](https://youtu.be/fe76_Dv-Vmo)!
+
 1. Cut acrylic plate with laser cutter. (Use can use the file "iphone_petri.ai" if your phone is iPhone 7.)
 
 2. Glue the parts.
