@@ -1,4 +1,4 @@
-# mold
+# how to make molds visible
 
 1. Cut acrylic plate with laser cutter. (Use can use the file "iphone_petri.ai" if your phone is iPhone 7.)
 
